@@ -1,2 +1,4 @@
-## HOSTED PROJECTS (please wait 2-3 mins the server takes time to load the project as it is deployed on a free server) 
-Car Price Predictor : https://car-price-predictor-g8jh.onrender.com/ ()
+## HOSTED PROJECTS (PLEASE ALLOW SERVER 2-3 MINUTES TO LOAD PROJECT AS IT IS HOSTED ON A FREE SERVER) 
+Car Price Predictor : https://car-price-predictor-g8jh.onrender.com/ (made with flask, html, css, js)
+Breast Cancer Prediction: https://richik-io-cancer-predictor-app-appmain-a87r0n.streamlit.app/
+Stock Market Analysis: https://stock-price-predocto-guadyvm9yrkarxvnaspzjk.streamlit.app/
